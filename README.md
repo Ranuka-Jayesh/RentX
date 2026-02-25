@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Rent<span style="color:#f97316">X</span>**
+<h1><strong>Rent<span style="color:#f97316">X</span></strong></h1>
 
 ### Premium vehicle rentals — browse, search & book
 
@@ -25,6 +25,31 @@
 | 🌙 **Dark mode** | System-aware theme with smooth transitions |
 | 📱 **Responsive** | Layouts tuned for mobile, tablet, and desktop |
 | ⚡ **Fast** | Vite + React 18 for quick dev and optimized builds |
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/s1.png" width="400" alt="Screenshot 1" />
+  <img src="screenshots/s2.png" width="400" alt="Screenshot 2" />
+</p>
+<p align="center">
+  <img src="screenshots/s3.png" width="400" alt="Screenshot 3" />
+  <img src="screenshots/s4.png" width="400" alt="Screenshot 4" />
+</p>
+<p align="center">
+  <img src="screenshots/s5.png" width="400" alt="Screenshot 5" />
+  <img src="screenshots/s6.png" width="400" alt="Screenshot 6" />
+</p>
+<p align="center">
+  <img src="screenshots/s7.png" width="400" alt="Screenshot 7" />
+  <img src="screenshots/s8.png" width="400" alt="Screenshot 8" />
+</p>
+<p align="center">
+  <img src="screenshots/s9.png" width="400" alt="Screenshot 9" />
+  <img src="screenshots/s10.png" width="400" alt="Screenshot 10" />
+</p>
 
 ---
 
@@ -81,6 +106,7 @@
 ```
 RentX/
 ├── public/
+├── screenshots/   # s1.png … s10.png (for README)
 ├── src/
 │   ├── components/     # Reusable UI (Layout, Navbar, Footer, VehicleCard, etc.)
 │   ├── components/ui/  # shadcn/ui primitives
